@@ -4,7 +4,7 @@
 
 [![HTML5](https://img.shields.io/badge/-HTML5-263238?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/Vinicius-Vianna/Doe/)](https://github.com/Vinicius-Vianna/Doe/)
 [![CSS3](https://img.shields.io/badge/-CSS3-263238?style=for-the-badge&logo=css3&link=https://github.com/Vinicius-Vianna/Doe/)](https://github.com/Vinicius-Vianna/Doe/)
-[![ReactJS](https://img.shields.io/badge/-React-263238?style=for-the-badge&logo=react&link=https://github.com/Vinicius-Vianna/Doe/)](https://github.com/Vinicius-Vianna/github-explorer)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-263238?style=for-the-badge&logo=javascript&link=https://github.com/Vinicius-Vianna/realmdb)](https://github.com/Vinicius-Vianna/realmdb)
 
 <p>
   <a href="https://github.com/Vinicius-Vianna/github-readme-stats">
