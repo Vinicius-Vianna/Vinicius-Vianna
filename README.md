@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá! Eu sou o Vinicius Vianna :man_technologist:👋
 
-<!--
-**Vinicius-Vianna/Vinicius-Vianna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Conhecimentos | Knowledges
 
-Here are some ideas to get you started:
+[![HTML5](https://img.shields.io/badge/-HTML5-263238?style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/Vinicius-Vianna/Doe/)](https://github.com/Vinicius-Vianna/Doe/)
+[![CSS3](https://img.shields.io/badge/-CSS3-263238?style=for-the-badge&logo=css3&link=https://github.com/Vinicius-Vianna/Doe/)](https://github.com/Vinicius-Vianna/Doe/)
+[![ReactJS](https://img.shields.io/badge/-React-263238?style=for-the-badge&logo=react&link=https://github.com/Vinicius-Vianna/Doe/)](https://github.com/Vinicius-Vianna/github-explorer)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://github.com/Vinicius-Vianna/github-readme-stats">
+    <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Vianna&layout=compact&theme=tokyonight"
+    />
+  </a>
+</p>
